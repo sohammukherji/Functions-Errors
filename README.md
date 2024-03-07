@@ -1,4 +1,4 @@
-# Project Title: Functions-and-Errors---ETH-AVAX
+# Functions and Errors
 
 ## Description
 
